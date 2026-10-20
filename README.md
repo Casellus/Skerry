@@ -53,7 +53,7 @@ Windows 10 (versione 2004 o successiva) oppure Windows 11, a 64 bit.
 
 ## Disinstallare
 
-**Impostazioni di Windows → App → App installate → Winotch → Disinstalla.**
+**Impostazioni di Windows → App → App installate → Skerry → Disinstalla.**
 
 ---
 
@@ -91,4 +91,4 @@ Windows 10 (version 2004 or later) or Windows 11, 64-bit.
 
 ## Uninstall
 
-**Windows Settings → Apps → Installed apps → Winotch → Uninstall.**
+**Windows Settings → Apps → Installed apps → Skerry → Uninstall.**
