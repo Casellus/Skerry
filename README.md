@@ -1,4 +1,4 @@
-# Winotch
+# Skerry
 
 Una Dynamic Island per Windows.
 
@@ -57,7 +57,7 @@ Windows 10 (versione 2004 o successiva) oppure Windows 11, a 64 bit.
 
 ---
 
-# Winotch (English)
+# Skerry (English)
 
 A Dynamic Island for Windows.
 
